@@ -1,0 +1,4 @@
+Links = '//h2/a/@href'
+News Title = '//div[@class="row OpeningPostNormal"]//h2/a/text()'
+News Description = '//div[@class="lead"]/p/text()'
+News Content = '//div[@class="html-content"]/p/text()'
